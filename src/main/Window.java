@@ -18,6 +18,21 @@ import states.LoadingState;
 import states.State;
 import java.awt.Image;
 
+/**
+ 
+Proyecto: Proyecto Aplicativo Final,
+,
+Integrantes del equipo:,
+Roberto Vargas,
+,
+Jose Bernardo Noguera,
+,
+Alexander Otoniel Pineda,
+,
+Alejandro Garrido,
+,
+,
+Fecha de entrega: 20 de mayo de 2025*/
 
 public class Window extends JFrame implements Runnable{
 	
