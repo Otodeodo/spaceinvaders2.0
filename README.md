@@ -7,18 +7,6 @@ Alejandro Garrido,
 
 Fecha de entrega,
 20 de mayo de 2025
-
-
-Proyecto: Proyecto Aplicativo Final,
-Integrantes del equipo,
-Roberto Vargas,
-Jose Bernardo Noguera,
-Alexander Otoniel Pineda,
-Alejandro Garrido,
-
-Fecha de entrega,
-20 de mayo de 2025
-
 ## Descripción
 Space Invaders 2.0 es un emocionante juego de disparos espaciales desarrollado en Java, donde los jugadores controlan una nave espacial en un entorno lleno de desafíos. El juego combina elementos clásicos de los juegos arcade con características modernas como power-ups y sistema de oleadas.
 
